@@ -1,8 +1,0 @@
-Crie um script Python que leia o nome
-de uma pessoa e mostre uma mensagem de 
-boas-vindas de acordo com o valor digitado.
-
-===== Desafio 01 =====
-Qual é o seu nome?
-
-Olá, Kiko! Prazer em te conhecer!
