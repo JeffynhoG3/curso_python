@@ -1,2 +1,7 @@
-nome = input('Qual e seu nome: ')
-print('É um grande prazer em te conhecer', nome)
+#Crie um programa que escreva "Olá, mundo!" na tela.
+
+print('')
+print('===== Exercício #001 =====')
+print('')
+msg = 'Olá, Mundo!'
+print(msg)
