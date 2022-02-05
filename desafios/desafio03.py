@@ -1,3 +1,5 @@
+# Crie um programa que leia dois números e mostre a soma entre eles.
+
 print('')
 print('')
 print('===== DESAFIO 3 =====')
