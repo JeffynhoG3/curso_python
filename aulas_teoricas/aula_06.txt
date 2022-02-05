@@ -1,0 +1,13 @@
+Tipos primitivos em Python!
+
+Números inteiros
+int = 7, -4, 0, 9875
+
+Números reais ou números de ponto flutuante
+float = 4.5, 0.076, -15.223, 7.0
+
+Valores logicos ou booleanos
+bool = True, False
+
+Valores caracteres ou strings
+str = 'Olá', '7.5', ''<-string vazia
