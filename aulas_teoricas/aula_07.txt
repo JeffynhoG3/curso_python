@@ -1,0 +1,38 @@
+Operadores Aritiméticos
+
++   Adição
+-   Subtração
+*   Multiplicação
+/   Divisão
+**  Potência
+//  Divisão Inteira
+%   Resto da Divição
+
+Operando - (Pode ser um número e variáveis que contém números)
+
+5 + 2 == 7
+5 - 2 == 3
+5 * 2 == 10
+5 / 2 == 2.5
+5 ** 2 == 25
+5 // 2 == 2
+5 % 2 == 1
+
+Divisão Inteira
+5 | 2
+4   2 <- valor inteiro
+1
+
+Resto da Divição
+5 | 2
+4   2
+1 <- resto
+
+=======================================================================================
+
+Ordem de Precedência
+
+1   ()
+2   **
+3   *  /  //  %
+4   +  -
