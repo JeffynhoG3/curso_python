@@ -7,3 +7,8 @@ print('')
 print('')
 print('===== DESAFIO 10 =====')
 print('')
+
+re = float(input('Quantos reais você tem: '))
+do = re / 3.27
+
+print('Você pode comprar com R${} em dolares U${:.2f}.'.format(re, do))

@@ -6,3 +6,12 @@ print('')
 print('')
 print('===== DESAFIO 11 =====')
 print('')
+
+al = float(input('Quantos metros tem a altura: '))
+la = float(input('Quantos metros tem a largura: '))
+
+ar = al * la
+tin = ar / 2
+
+print('A Altura e {} a Largura {} a Area {}.'.format(al, la, ar))
+print('Você precisa de {}lt de tinta para pintar {}m²'.format(tin, ar))
