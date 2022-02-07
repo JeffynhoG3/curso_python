@@ -6,10 +6,8 @@ print('')
 print('===== DESAFIO 13 =====')
 print('')
 
-sal = float(input('Qual e o Salário atual: '))
+salario = float(input('Qual e o Salário atual: R$'))
 
-aum = sal * (15/100)
+aumento = salario + (salario * (15/100))
 
-nov = sal + aum
-
-print('O salário atual e R${:.2f} e com 15% de aumento ficará R${:.2f}.'.format(sal, nov))
+print('O salário atual e R${:.2f}, com 15% de aumento ficará R${:.2f}.'.format(salario, aumento))

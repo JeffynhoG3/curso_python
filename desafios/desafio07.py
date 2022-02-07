@@ -11,4 +11,4 @@ n2 = float(input('Digite outra nota: '))
 
 total = (n1 + n2) / 2
 
-print('A média do aluno foi {}.'.format(total))
+print('A média do aluno foi {:.1f}.'.format(total))

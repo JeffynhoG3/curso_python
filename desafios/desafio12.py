@@ -6,11 +6,9 @@ print('')
 print('===== DESAFIO 12 =====')
 print('')
 
-p = float(input('Preço do produto: '))
+preco = float(input('Preço do produto: R$'))
 
-d = p * (23/100)
+novo = preco - (preco * (5/100))
 
-t = p - d
-
-print('O produto custa R${:.2f} e tem 5% de desconto.'.format(p))
-print('O desconto e de R${:.2f}, você vai pagar R${:.2f}.'.format(d, t))
+print('O produto custa R${:.2f} e tem 5% de desconto.'.format(preco))
+print('Você vai pagar R${:.2f}.'.format(novo))
