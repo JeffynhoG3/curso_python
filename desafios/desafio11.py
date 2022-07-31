@@ -7,11 +7,11 @@ print('')
 print('===== DESAFIO 11 =====')
 print('')
 
-al = float(input('Altura da parede: '))
-la = float(input('Largura da parede: '))
+alt = float(input('Altura da parede: '))
+lar = float(input('Largura da parede: '))
 
-ar = al * la
-tin = ar / 2
+area = alt * lar
+tint = area / 2
 
-print('Sua parede tem a dimensão de {}x{} e sua área e de {}m².'.format(al, la, ar))
-print('Para pintar essa parede, você precisará de {}Lt de tinta.'.format(tin))
+print('Sua parede tem a dimensão de {}x{} e sua área e de {}m².'.format(alt, lar, area))
+print('Para pintar essa parede, você precisará de {}Lt de tinta.'.format(tint))
