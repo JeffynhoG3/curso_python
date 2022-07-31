@@ -8,7 +8,7 @@ print('===== DESAFIO 4 =====')
 print('')
 n1 = input('Digite algo: ')
 
-print('Seu tipo primitivo é:',type(n1))
+print('Seu tipo primitivo é:', type(n1))
 print('E alfanumérico:', n1.isalnum())
 print('Ele e um número:', n1.isnumeric())
 print('Ele e alfabético:', n1.isalpha())
