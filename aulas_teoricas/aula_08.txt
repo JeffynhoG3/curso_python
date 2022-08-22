@@ -1,0 +1,24 @@
+Em Python incluir alguma biblioteca
+usar o comando - import
+
+* import bebida		(ira importar todas as bebidas)
+* import doce		(ira importar todos os doces)
+
+Para importar somente uma ou mais funções especificas da biblioteca
+
+from doce import pudim
+
+--------------------------------------------------------------------
+
+biblioteca
+-math-
+ceil 	- arredonda pra cima
+floor 	- arredonda pra baixo
+trunc	- truncar o numero elemina da , pra frente
+pow		- potencia
+sqrt	- raiz quadrada
+factorial	- calculo fatorial de um numero
+
+import math
+from math import sqrt
+from math import sqrt, ceil
