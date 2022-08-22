@@ -22,3 +22,18 @@ factorial	- calculo fatorial de um numero
 import math
 from math import sqrt
 from math import sqrt, ceil
+
+-----------------------------------------------------------------
+
+python.org
+ver a versão do python
+
+Library Reference
+Topic 9
+ver exemplos
+
+Topic 9 - 9.6 Random
+
+-----------------------------------
+python.org
+PyPI #Index de pacotes extras
